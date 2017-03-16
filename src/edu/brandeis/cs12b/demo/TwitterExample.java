@@ -4,7 +4,7 @@ public class TwitterExample {
 
   public static void main(String[] args) throws InterruptedException {
     TwitterFeed myFeed = new TwitterFeed();
-    myFeed.prepare("brandeis and harvard");
+    myFeed.prepare("trump and clinton");
     myFeed.run();
   }
 }

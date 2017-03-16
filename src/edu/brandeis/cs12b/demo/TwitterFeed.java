@@ -1,7 +1,6 @@
 package edu.brandeis.cs12b.demo;
 
 import java.util.Arrays;
-import java.util.LinkedList;
 import java.util.List;
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingQueue;
